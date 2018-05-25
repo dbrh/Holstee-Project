@@ -1,0 +1,147 @@
+/*Column Lay Out*/
+
+#quote_column_one {
+
+  width: 360px;
+  float: left;
+  padding: 20px 10px 20px 10px;
+  
+}
+
+#quote_column_two {
+  
+  width: 360px;
+  float: left;
+  padding: 20px 10px 20px 10px;  
+}
+
+
+/*Holstee Manifesto quotes*/
+
+/*QC1*/
+
+#quote_this_is_your_life {
+  background: #ccf2ff;
+  color: #ff4d4d;
+  width: 360px;
+  font-family: skranji;
+  text-align: center;
+  float: inherit;
+  padding: 20px 10px 20px 10px;
+}
+
+
+#quote_waiting_love {
+  background: #ff4d4d;
+  color: #00bfff;
+  width: 360px;
+  font-family: "Indie Flower";
+  text-transform: capitalize;
+  float: inherit;
+  padding: 20px 10px 20px 10px;
+}
+
+#quote_stop_analyzing {
+  background: #99ccff;
+  color:#000000;
+  width: 360px;
+  padding: 10px;
+  font-family: "Shadows Into Light";
+  float: inherit;
+}
+
+/*QC2*/
+#quote_eat_bite {
+  background: #ff66a3;
+  color:#ffffff;
+  width: 360px;
+  padding: 20px 10px 20px 10px;
+  font-family: "Indie Flower";
+  text-align: right;
+  float: inherit;
+
+}
+
+#quote_open_mind_arms_heart {
+  background: #ff4d4d; 
+  color: #ffffff;
+  width: 360px;
+  padding: 15px 10px 18px 10px;
+  font-family: "Rajdhani";
+  text-align: right;
+  float: inherit;
+}
+
+#quote_ask_person {
+  background: #99ccff;
+  color: #000d1a;
+  width: 360px;
+  padding: 20px 10px 20px 10px;
+  font-family: "skranji";
+  text-align: justify;
+  float: inherit;
+}
+
+#quote_travel_often {
+  background: #ccf2ff;
+  color: #ff4d4d;
+  width: 360px;
+  padding: 5px 10px 5px 10px;
+  font-family: "Indie Flower";
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  float: inherit;
+}
+
+#quote_opportunities_seize {
+  background: #ff66a3;
+  color: #ccf2ff;
+  width: 360px;
+  padding: 20px 10px 20px 10px;
+  font-family: "Indie Flower";
+  text-align: justify;
+  float: inherit;
+}
+
+#quote_life_people_creating {
+  background: #ccf2ff;
+  color: #000000;
+  width: 360px;
+  padding: 20px 10px 5px 10px;
+  font-family: "Shadows Into Light";
+  text-transform: capitalize;
+  text-align: justify;
+}
+
+#quote_live_dream_passion {
+  background: #99ccff;
+  color: #ff4d4d;
+  font-family: "Rajdhani";
+  width: 360px;
+  padding: 10px 10px 10px 10px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/*Quotes and Highlights*/
+
+.important_quote {
+  text-transform: uppercase;
+}
+
+.important_words  {
+  font-style: italic;
+  font-size: 24px;
+}
+
+  
+
+  
+
+  
+ 
+
+
